@@ -1,6 +1,7 @@
 terraform/.DS_Store
-terraform_demo/.terraform.lock.hcl
-terraform_demo/terraform.tfstate
-terraform_demo/terraform.tfstate.backup
-terraform_demo/.terraform/*
+terraform_aws_project/.terraform.lock.hcl
+terraform_aws_project/terraform.tfstate
+terraform_aws_project/terraform.tfstate.backup
+terraform_aws_project/.terraform/*
+.DS_Store
 .DS_Store
