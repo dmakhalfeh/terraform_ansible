@@ -3,3 +3,4 @@ terraform_demo/.terraform.lock.hcl
 terraform_demo/terraform.tfstate
 terraform_demo/terraform.tfstate.backup
 terraform_demo/.terraform/*
+.DS_Store
