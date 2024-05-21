@@ -5,3 +5,4 @@ terraform_aws_project/terraform.tfstate.backup
 terraform_aws_project/.terraform/*
 .DS_Store
 .DS_Store
+.DS_Store
